@@ -1,0 +1,115 @@
+[
+    {
+   
+    "name": "Oleg Shablii",
+    "position": "Front End Developer",
+    "image":"../images/Oleg",
+    "email":" ",
+    "sociallist":[
+        "https://www.instagram.com/ ",
+        "#",
+        "https://www.linkedin.com/ "
+    ]
+    
+  },
+
+  {
+    
+    "name": "Halyna Khyzhynska ",
+    "position": "Team Lead",
+    "image":"../images/Galja",
+    "email":" ",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+ 
+    "name": "Denis Dahilenjan",
+    "position": "Scrum Master",
+    "image":"../images/Denis",
+    "email":" ",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+   
+    "name": "Ludmyla Mychta",
+    "position": "Front End Developer",
+    "image":"../images/Luda",
+    "email":" ",
+    "sociallist":[
+        "#",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+    
+    "name": "George Vasylenko",
+    "position": "Front End Developer",
+    "image":"../images/Georgij",
+    "email":" ",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "https://www.linkedin.com/ "
+    ]
+    
+  },
+
+  {
+    
+    "name": "Julia Artemenko",
+    "position": "Front End Developer",
+    "image":"../images/Julija",
+    "email":" ",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+    
+    "name": "Viktoriia Nazaruk",
+    "position": "Front End Developer",
+    "image":"../images/Vika",
+    "email":" ",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+    
+    "name": "Ivan Rybachuk",
+    "position": "Front End Developer",
+    "image":"../images/Vanja",
+    "email":" ",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  }
+
+]
+
